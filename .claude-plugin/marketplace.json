@@ -1,0 +1,11 @@
+{
+  "name": "arcla",
+  "owner": { "name": "Arcla" },
+  "plugins": [
+    {
+      "name": "arcla",
+      "source": "./plugin",
+      "description": "Connect Claude to your Arcla calls and knowledge base, with Arcla's call skills (OAuth sign-in)"
+    }
+  ]
+}
