@@ -144,6 +144,7 @@ per environment, so your connection may list fewer than the table below.
 | `list_crm_writes` | See the changes Arcla made in your connected CRM, newest first (admins only). | Your organisation |
 | `undo_crm_write` | Put one change Arcla made in your connected CRM back to what it was (admins only). | Your organisation |
 | `sync_crm_fields` | Refresh Arcla's record of your connected CRM's custom fields and dropdown options (admins only). | Your organisation |
+| `survey_crm_connector` | Record how your team uses your connected CRM: fields filled, stages and lists, as counts only (admins only). | Your organisation |
 | `list_crm_fields` | See the custom fields and dropdown options Arcla knows of in your connected CRM (admins only). | Your organisation |
 | `list_crm_facts` | See what Arcla has learned about how your connected CRM is used (admins only). | Your organisation |
 | `retire_crm_fact` | Retire one thing Arcla learned about your connected CRM so it is no longer used (admins only). | Your organisation |
