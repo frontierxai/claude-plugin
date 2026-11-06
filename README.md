@@ -154,6 +154,7 @@ per environment, so your connection may list fewer than the table below.
 | `confirm_crm_mapping` | Confirm one proposed CRM field mapping and set who may write through it (admins only). | Your organisation |
 | `set_crm_mapping` | Record your own mapping of an Arcla concept to a field of your connected CRM (admins only). | Your organisation |
 | `retire_crm_mapping` | Retire one CRM field mapping so it is no longer used (admins only). | Your organisation |
+| `set_crm_company_login_writes` | Let members without their own CRM login make allowed changes through the company's connection (admins only, HubSpot). | Your organisation |
 
 <!-- mcp-tools:end -->
 
