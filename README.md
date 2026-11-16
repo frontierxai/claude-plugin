@@ -159,6 +159,7 @@ per environment, so your connection may list fewer than the table below.
 | `list_crm_decisions` | See the decisions Arcla's model made about how your connected CRM is set up, newest first (admins only). | Your organisation |
 | `report_crm_decisions` | Count the decisions Arcla's model made about your connected CRM by kind and week, with their cost (admins only). | Your organisation |
 | `list_call_field_values` | See the CRM field values Arcla took from one of your calls, and whether each is waiting or written. | Your calls |
+| `approve_field_value` | Approve one CRM field value Arcla took from a call and write it to your CRM (the call's owner or admins). | Your calls |
 
 <!-- mcp-tools:end -->
 
