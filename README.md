@@ -103,7 +103,8 @@ per environment, so your connection may list fewer than the table below.
 | `get_knowledge_item` | Read one document, fact or answer from your knowledge base. | Your organisation |
 | `list_outlines` | See your team's call outlines. | Your organisation |
 | `list_related_calls` | See your team's earlier calls with the same people or company: summaries and objectives, never transcripts. | Your organisation |
-| `get_outline` | Read one call outline — its sections, talking points and objectives. | Your organisation |
+| `get_outline` | Read one call outline: its steps, objectives, coaching notes and plays. | Your organisation |
+| `edit_outline` | Change one of your team's call outlines, a part at a time. Admins only. | Your organisation |
 | `update_call` | Change the title, time or attendees of one of your upcoming calls, or record what we know about the prospect. | Your calls |
 | `delete_call` | Remove one of your calls that has not started yet. | Your calls |
 | `assign_call_outline` | Pick one of your team's call outlines for an upcoming call. | Your calls |
