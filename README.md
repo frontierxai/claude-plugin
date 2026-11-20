@@ -163,6 +163,9 @@ per environment, so your connection may list fewer than the table below.
 | `report_crm_decisions` | Count the decisions Arcla's model made about your connected CRM by kind and week, with their cost (admins only). | Your organisation |
 | `list_call_field_values` | See the CRM field values Arcla took from one of your calls, and whether each is waiting or written. | Your calls |
 | `approve_field_value` | Approve one CRM field value Arcla took from a call and write it to your CRM (the call's owner or admins). | Your calls |
+| `get_follow_up_email` | Read the follow-up email Arcla drafted after one of your calls. | Your calls |
+| `get_call_todos` | Read what you said you would do after one of your calls. | Your calls |
+| `mark_follow_up_email_sent` | Record that you sent the follow-up email for one of your calls. Arcla never sends it. | Your calls |
 
 <!-- mcp-tools:end -->
 
