@@ -166,6 +166,7 @@ per environment, so your connection may list fewer than the table below.
 | `get_follow_up_email` | Read the follow-up email Arcla drafted after one of your calls. | Your calls |
 | `get_call_todos` | Read what you said you would do after one of your calls. | Your calls |
 | `mark_follow_up_email_sent` | Record that you sent the follow-up email for one of your calls. Arcla never sends it. | Your calls |
+| `get_prep_sheet` | Read the prep sheet Arcla wrote for one of your meetings. | Your calls |
 
 <!-- mcp-tools:end -->
 
