@@ -105,6 +105,7 @@ per environment, so your connection may list fewer than the table below.
 | `list_related_calls` | See your team's earlier calls with the same people or company: summaries and objectives, never transcripts. | Your organisation |
 | `get_outline` | Read one call outline: its steps, objectives, coaching notes and plays. | Your organisation |
 | `edit_outline` | Change one of your team's call outlines, a part at a time. Admins only. | Your organisation |
+| `create_outline` | Make a new call outline for your team, as a draft. Admins only. | Your organisation |
 | `update_call` | Change the title, time or attendees of one of your upcoming calls, or record what we know about the prospect. | Your calls |
 | `delete_call` | Remove one of your calls that has not started yet. | Your calls |
 | `assign_call_outline` | Pick one of your team's call outlines for an upcoming call. | Your calls |
