@@ -152,6 +152,8 @@ per environment, so your connection may list fewer than the table below.
 | `retire_crm_fact` | Retire one thing Arcla learned about your connected CRM so it is no longer used (admins only). | Your organisation |
 | `propose_crm_profile` | Draft how your team uses your connected CRM, as facts and a field mapping for an admin to confirm (admins only). | Your organisation |
 | `measure_crm_profile` | See how much Arcla has on record about your connected CRM, as counts only (admins only). | Your organisation |
+| `crm_go_live_check` | Check an org's after-call CRM setup before it goes live: switches, mappings and recent calls (Arcla staff only). | Your organisation |
+| `crm_dry_run_call` | Replay one call through the after-call CRM automations, writing nothing (Arcla staff only). | Your organisation |
 | `confirm_crm_fact` | Confirm one proposed fact about how your connected CRM is used (admins only). | Your organisation |
 | `list_crm_mappings` | See which of your connected CRM's fields hold deal stage, value, close date and the rest (admins only). | Your organisation |
 | `confirm_crm_mapping` | Confirm one proposed CRM field mapping and set who may write through it (admins only). | Your organisation |
